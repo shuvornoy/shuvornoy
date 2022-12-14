@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shuvo Roy</h1>
 <h2 align="center">A passionate Junior MERN Stack Developer from Bangladesh</h2>
 
-<h2 align="center">protfolio</h2>
-https://protfulio-shuvo.netlify.app/
+<h2 align="left">protfolio</h2>
+<h2 align="left">https://protfulio-shuvo.netlify.app/</h2>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
